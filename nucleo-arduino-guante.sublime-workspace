@@ -1,0 +1,1034 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pin",
+				"pins"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"DI",
+				"DIGITAL_HIGH"
+			],
+			[
+				"pi",
+				"pins"
+			],
+			[
+				"data",
+				"datain"
+			],
+			[
+				"tiem",
+				"tiempo_vivo"
+			],
+			[
+				"tiempo",
+				"tiempo_vivo"
+			],
+			[
+				"descon",
+				"descontar_tiempo_timer"
+			],
+			[
+				"envi",
+				"enviar_datos_timer"
+			],
+			[
+				"de",
+				"descontar_tiempo"
+			],
+			[
+				"digi",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"analo",
+				"analogWrite	Arduino analogWrite"
+			],
+			[
+				"inte",
+				"intensidad"
+			],
+			[
+				"ana",
+				"analogWrite	Arduino analogWrite"
+			],
+			[
+				"audi",
+				"Audio_Question"
+			],
+			[
+				"ima",
+				"Image_Question"
+			],
+			[
+				"Ima",
+				"Image_Question"
+			],
+			[
+				"conse",
+				"informed_consent_form"
+			],
+			[
+				"Infor",
+				"InformedConsent"
+			],
+			[
+				"time",
+				"time_out"
+			],
+			[
+				"htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"is",
+				"is_admin"
+			],
+			[
+				"li",
+				"limitTime"
+			],
+			[
+				"audio",
+				"audio_id"
+			],
+			[
+				"que",
+				"question_list"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"ord",
+				"order_by"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "GeneralFunctions.h",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "GloveFunctions.cpp",
+			"settings":
+			{
+				"buffer_size": 968,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "haptics_glove.ino",
+			"settings":
+			{
+				"buffer_size": 766,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GloveFunctions.h",
+			"settings":
+			{
+				"buffer_size": 69,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "GeneralFunctions.cpp",
+			"settings":
+			{
+				"buffer_size": 1897,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/GeneralFunctions.h",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/GeneralFunctions.cpp",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/GloveFunctions.h",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/GloveFunctions.cpp",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/SensorsFunctions.h",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/haptics_glove.ino",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/SensorsFunctions.cpp",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/ActuatorsFunctions.h",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/ActuatorsFunctions.cpp",
+		"/C/Users/kayjt/AppData/Local/Temp/Stino_build/haptics_glove/haptics_glove.ino.cpp.o:C:/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/haptics_glove.ino",
+		"/C/Users/kayjt/AppData/Local/Temp/Stino_build/haptics_glove/haptics_glove/ActuatorsFunctions.cpp.o:C:/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/ActuatorsFunctions.cpp",
+		"/C/Users/kayjt/Downloads/sensorDemoMat.ino",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/functions.cpp",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/functions.h",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/haptics_glove/functions",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/nodejs/static/js/duracion_bateria.js",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/nodejs/duracion_bateria.html",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/nodejs/static/js/prueba_cuadro_js.js",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/haptics_node/routes/index.js",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/nodejs/prueba_cuadrado.html",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/nodejs/server.js",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/nodejs/package.json",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/prueba_motores/prueba_motores.ino",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/haptics_node/app.js",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/nodejs/static/js/jquery-haptics.js",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/haptics_node/routes/duracion_bateria.js",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/ejemplo1/ejemplo1.ino",
+		"/C/Users/kayjt/Documents/GitHub/Guante-Haptics/arduino/ejemplo1/prueba_enceder.ino",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/static/js/funciones_nueva_pregunta.js",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/funciones.py",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/static/js/funciones-estudio.js",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/templates/encuestas/usuario/responder_encuesta.html",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/views.py",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/citiaps/urls.py",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/citiaps/settings.py",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/templates/encuestas/previsualizar_encuesta.html",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/templates/encuestas/admin_editar_encuesta.html",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/models.py",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/forms.py",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/templates/encuestas/estudio/admin_ver_estudio.html",
+		"/C/Users/kayjt/Downloads/Estudio pruebas.csv",
+		"/C/Users/kayjt/Downloads/Estudio pruebas-Prueba_ Encuesta prueba 2.csv",
+		"/C/Users/kayjt/Downloads/Estudio pruebas-Prueba_ Encuesta prueba.csv",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/templates/encuestas/preguntas_editar/admin_nueva_pregunta_alternativa_update.html",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/templates/encuestas/base_admin.html",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/citiaps/wsgi.py",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/templates/encuestas/preguntas_nueva/admin_nueva_pregunta_alternativa.html",
+		"/C/Users/kayjt/Downloads/Telegram Desktop/pasos_instalacion (2).txt",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/static/css/custom.css",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/static/js/funciones_editar.js",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/templates/encuestas/estudio/admin_editar_estudio.html",
+		"/C/Users/kayjt/Downloads/Estudio Clima Superintendencia de Salud.csv",
+		"/C/Users/kayjt/Documents/GitHub/Encuestas-Psicologia-CITIAPS/citiaps/encuestas/static/js/jquery.js",
+		"/C/Users/kayjt/Documents/GitHub/OE/OE_Node/oe_demo.js",
+		"/C/Users/kayjt/Documents/GitHub/OE/OE_Node/package.json",
+		"/C/Users/kayjt/OneDrive/CITIAPS/pasos_instalacion.txt",
+		"/C/Users/kayjt/OneDrive/CITIAPS/Llaves servidor/publica.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obj",
+			"time_out",
+			"if len(answe",
+			"nueva_pregunta_conse",
+			"if len(ans",
+			"reverse",
+			"cursor = connection.cursor()\n\n       cursor.execute(\"SELECT setval('tablename_id_seq', (SELECT MAX(id) FROM tablename)+1)\")\n\n       success = simplejson.dumps({'success':'success',})\n\n       return HttpResponse(success, mimetype='application/json') ",
+			"grab",
+			"minHeightClock",
+			"audio",
+			"activo",
+			"#activo",
+			"url",
+			"bootstrap",
+			"swit",
+			"togg",
+			"activo",
+			"is_visi",
+			"hacervisible",
+			"hacervis",
+			"exportar_datos_est",
+			"exportar_dat",
+			"text_question",
+			"nueva_pregunta_tex",
+			"order_by",
+			".objects.all()",
+			"ques",
+			"fecha",
+			"duplicar",
+			"ui-so",
+			"ui",
+			"alternative_formset",
+			"nueva_pregunta_al",
+			"formset=",
+			"choiceForm",
+			"alternative_que",
+			"choiceFormSet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "GeneralFunctions.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "GloveFunctions.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "haptics_glove.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "GloveFunctions.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "GeneralFunctions.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.472913616398,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1438642454.75222":
+	{
+		"height": 100.0
+	},
+	"output.1438642502.121257":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444340834.868034":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444340937.406348":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444341059.507424":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444845527.666364":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449626911.421049":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449627008.052967":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449627072.8856":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449766431.79044":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449766688.13356":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449767182.005032":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449767266.699394":
+	{
+		"height": 100.0
+	},
+	"output.build|C:\\Users\\kayjt\\Documents\\GitHub\\Nucleo-Arduino-Guante|1450213265.118003":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444333180.043525":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444333214.841304":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444340575.134869":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444340658.725925":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444341074.734097":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444341091.513877":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444341111.980947":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444341338.811539":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444341507.793074":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444843875.249377":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444843887.491466":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444844444.629148":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444844454.550716":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444844479.958567":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444844739.182932":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444845531.651458":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444850959.446535":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444850966.200186":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444851053.319542":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444851591.2452":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444851602.629527":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444856335.579005":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444856847.676098":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1444857098.650066":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1445037912.72434":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1445037930.036947":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1447985256.226961":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1447985272.607693":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449626163.125261":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449627089.283574":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449671174.023473":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449671186.218512":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449671238.97275":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449671616.109733":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449672186.580483":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449672431.187338":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449672629.913":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449672650.66593":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449672793.531236":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449766251.462964":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449766299.966503":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449766348.832323":
+	{
+		"height": 227.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449767245.481511":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449767343.613536":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449767566.350978":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449768090.91905":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\haptics_glove|1449772662.892793":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\prueba_motores|1438817662.482037":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\prueba_motores|1438817731.782114":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\prueba_motores|1438817783.981394":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\prueba_motores|1438817825.558488":
+	{
+		"height": 100.0
+	},
+	"output.upload|C:\\Users\\kayjt\\Documents\\GitHub\\Guante-Haptics\\arduino\\prueba_motores|1444844433.739457":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "nucleo-arduino-guante.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"nodejs\\package.json"
+			],
+			[
+				"ser",
+				"nodejs\\server.js"
+			],
+			[
+				"prueba_cuad",
+				"nodejs\\static\\js\\prueba_cuadro_js.js"
+			],
+			[
+				"prueba",
+				"nodejs\\prueba_cuadrado.html"
+			],
+			[
+				"jque",
+				"nodejs\\static\\js\\jquery-haptics.js"
+			],
+			[
+				"prueba_cua",
+				"nodejs\\prueba_cuadrado.html"
+			],
+			[
+				"vie",
+				"citiaps\\encuestas\\views.py"
+			],
+			[
+				"func",
+				"citiaps\\encuestas\\funciones.py"
+			],
+			[
+				"funci",
+				"citiaps\\encuestas\\static\\js\\funciones-estudio.js"
+			],
+			[
+				"resp",
+				"citiaps\\encuestas\\templates\\encuestas\\usuario\\responder_encuesta.html"
+			],
+			[
+				"vi",
+				"citiaps\\encuestas\\views.py"
+			],
+			[
+				"form",
+				"citiaps\\encuestas\\forms.py"
+			],
+			[
+				"mode",
+				"citiaps\\encuestas\\models.py"
+			],
+			[
+				"u",
+				"citiaps\\citiaps\\urls.py"
+			],
+			[
+				"ur",
+				"citiaps\\citiaps\\urls.py"
+			],
+			[
+				"mo",
+				"citiaps\\encuestas\\models.py"
+			],
+			[
+				"editar",
+				"citiaps\\encuestas\\templates\\encuestas\\admin_editar_encuesta.html"
+			],
+			[
+				"se",
+				"citiaps\\citiaps\\settings.py"
+			],
+			[
+				"previsual",
+				"citiaps\\encuestas\\templates\\encuestas\\previsualizar_encuesta.html"
+			],
+			[
+				"prev",
+				"citiaps\\encuestas\\templates\\encuestas\\previsualizar_encuesta.html"
+			],
+			[
+				"set",
+				"citiaps\\citiaps\\settings.py"
+			],
+			[
+				"ws",
+				"citiaps\\citiaps\\wsgi.py"
+			],
+			[
+				"respon",
+				"citiaps\\encuestas\\templates\\encuestas\\usuario\\responder_encuesta.html"
+			],
+			[
+				"pre",
+				"citiaps\\encuestas\\templates\\encuestas\\previsualizar_encuesta.html"
+			],
+			[
+				"edit",
+				"citiaps\\encuestas\\templates\\encuestas\\admin_editar_encuesta.html"
+			],
+			[
+				"ver_es",
+				"citiaps\\encuestas\\templates\\encuestas\\estudio\\admin_ver_estudio.html"
+			],
+			[
+				"funciones-",
+				"citiaps\\encuestas\\static\\js\\funciones-estudio.js"
+			],
+			[
+				"editar_es",
+				"citiaps\\encuestas\\templates\\encuestas\\estudio\\admin_editar_estudio.html"
+			],
+			[
+				"mod",
+				"citiaps\\encuestas\\models.py"
+			],
+			[
+				"view",
+				"citiaps\\encuestas\\views.py"
+			],
+			[
+				"funcio",
+				"citiaps\\encuestas\\funciones.py"
+			],
+			[
+				"nueva_pregunta",
+				"citiaps\\encuestas\\templates\\encuestas\\preguntas_nueva\\admin_nueva_pregunta_alternativa.html"
+			],
+			[
+				"base",
+				"citiaps\\encuestas\\templates\\encuestas\\base_admin.html"
+			],
+			[
+				".css",
+				"citiaps\\encuestas\\static\\css\\custom.css"
+			],
+			[
+				"nueva_pregunta_alter",
+				"citiaps\\encuestas\\templates\\encuestas\\preguntas_nueva\\admin_nueva_pregunta_alternativa.html"
+			],
+			[
+				"alter",
+				"citiaps\\encuestas\\templates\\encuestas\\preguntas_nueva\\admin_nueva_pregunta_alternativa.html"
+			],
+			[
+				"funciones_ed",
+				"citiaps\\encuestas\\static\\js\\funciones_editar.js"
+			],
+			[
+				"nueva_pregunt",
+				"citiaps\\encuestas\\static\\js\\funciones_nueva_pregunta.js"
+			],
+			[
+				"nueva_pregn",
+				"citiaps\\encuestas\\templates\\encuestas\\preguntas_nueva\\admin_nueva_pregunta_alternativa.html"
+			],
+			[
+				"nueva",
+				"citiaps\\encuestas\\static\\js\\funciones_nueva_pregunta.js"
+			],
+			[
+				"funciones_e",
+				"citiaps\\encuestas\\static\\js\\funciones_editar.js"
+			],
+			[
+				"edita",
+				"citiaps\\encuestas\\templates\\encuestas\\admin_editar_encuesta.html"
+			],
+			[
+				"for",
+				"citiaps\\encuestas\\forms.py"
+			],
+			[
+				"pregunta_alterna",
+				"citiaps\\encuestas\\templates\\encuestas\\preguntas_editar\\admin_nueva_pregunta_alternativa_update.html"
+			],
+			[
+				"pregunta_alt",
+				"citiaps\\encuestas\\templates\\encuestas\\preguntas_nueva\\admin_nueva_pregunta_alternativa.html"
+			],
+			[
+				"nueva_pregunta_al",
+				"citiaps\\encuestas\\templates\\encuestas\\preguntas_nueva\\admin_nueva_pregunta_alternativa.html"
+			],
+			[
+				"funciones_nu",
+				"citiaps\\encuestas\\static\\js\\funciones_nueva_pregunta.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\kayjt\\OneDrive\\Proyectos sublime\\oe_server.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

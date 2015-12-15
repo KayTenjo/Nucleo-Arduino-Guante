@@ -1,12 +1,12 @@
 #include "Arduino.h"
-#include "ActuatorsFunctions.h"
+#include "GloveFunctions.h"
 
 static char TERMINAL_SIGN = 's';
 static int DIGITAL_HIGH = -1;
 static int DIGITAL_LOW = -2;
 
 
-void initializeActuators()
+void initializeMotor()
 {
 	
 	int pin_quantity = Serial.parseInt();
@@ -28,7 +28,7 @@ void initializeActuators()
 };
 
 
-void activateActuators()
+void activateMotor()
 {
 	
 	int pin_quantity = Serial.parseInt();
