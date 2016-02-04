@@ -1,20 +1,22 @@
 #include <GloveFunctions.h>
 #include <GeneralFunctions.h>
 
-int BAUD_RATE = 9600;
+int BAUD_RATE = 38400;
 int functionCase;
 
 void setup() {
  
- 	Serial.begin(9600);
+ 	Serial.begin(38400);
+
 }
 
 void loop() {
 
 	while (Serial.available() > 0) {
-
+		//Serial.println("datos disponibles");
 	    functionCase = Serial.parseInt();
-	    
+	    //Serial.println(functionCase);
+
 	    switch (functionCase) {
 
 	    	case 1:
